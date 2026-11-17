@@ -32,9 +32,6 @@ Remove These Lines
 3. Innovation and uniqueness of the solution
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
 
 ## Feasibility and Viability
 Remove These Lines
